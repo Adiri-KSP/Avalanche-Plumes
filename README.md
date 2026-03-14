@@ -8,7 +8,7 @@ Compatible mods:
 
 -Restock (Working)
 
--Bluedog Design Bureau (Completely broken due to file renaming)
+-Bluedog Design Bureau (WIP)
 
 -Artemis Construction Kit (Completely broken due to file renaming)
 
