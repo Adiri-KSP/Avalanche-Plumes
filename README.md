@@ -1,7 +1,10 @@
-
 Currently the most up to date and complete version of Avalanche.
 
+
 Requires: Module Manager, Waterfall, Smokescreen
+Installation instructions:
+[No releases yet, hang tight.]
+
 
 Compatible mods:
 
@@ -31,8 +34,6 @@ Compatible mods:
 
 -Tantares (Completely broken due to file renaming)
 
-Installation instructions:
-[No releases yet, hang tight.]
 
 Thanks to:
 Adiri
