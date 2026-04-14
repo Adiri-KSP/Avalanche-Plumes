@@ -1,6 +1,6 @@
 Requires: Module Manager, Waterfall, Smokescreen
 
-Instalation Instructions
+Installation Instructions
 
 -Remove any versions of SWE/RSMP/Avalanche
 
