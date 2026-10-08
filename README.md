@@ -1,4 +1,4 @@
-<img width="1080" height="1750" alt="shutTrack" src="https://github.com/user-attachments/assets/b46da3c9-c704-4980-8992-342c53dc99cf" />
+<img width="1920" height="1080" alt="shutTrack" src="https://github.com/user-attachments/assets/907a173a-7aa7-42b4-98ab-443506665017" />
 Image credit; .track
 
 =
