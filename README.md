@@ -1,4 +1,4 @@
-<img width="1220" height="800" alt="av_header" src="https://github.com/user-attachments/assets/b2c41d76-33cf-446a-bb8e-fe6d8472f65a" />
+<img width="1080" height="1750" alt="shutTrack" src="https://github.com/user-attachments/assets/b46da3c9-c704-4980-8992-342c53dc99cf" />
 NOTES-
 
 Tweakscale appears to be incompatible with SmokeScreen, this is not something I can fix, so expect the smoke effects to be misaligned when tweakscaling boosters.
