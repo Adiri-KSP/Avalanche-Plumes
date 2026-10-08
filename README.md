@@ -1,4 +1,8 @@
 <img width="1080" height="1750" alt="shutTrack" src="https://github.com/user-attachments/assets/b46da3c9-c704-4980-8992-342c53dc99cf" />
+Image credit; .track
+
+=
+
 NOTES-
 
 Tweakscale appears to be incompatible with SmokeScreen, this is not something I can fix, so expect the smoke effects to be misaligned when tweakscaling boosters.
