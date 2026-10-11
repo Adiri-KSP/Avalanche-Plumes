@@ -15,7 +15,7 @@ Current Bugs-
 
 Some motors are small enough that waterfall disables the lights for the plume, causing it to look weird. I haven't figured out a workaround for this unfortunately. Some notable ones are the Sergeant boosters from BDB.
 
-The Nesting Jet from Tantares is currently broken and I cannot find the file to fix it, and the UA1206F variant of the UA120 is broken with no plume.
+The UA1206F variant of the UA120 is broken with no plume.
 
  =
 
@@ -50,3 +50,5 @@ Zorg
 Kerbal Community
 
 Corrupted
+
+Mountainparrot
